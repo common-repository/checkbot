@@ -1,0 +1,31 @@
+﻿#CheckBot {
+    padding:0;
+    margin:0;
+}
+#CheckBot #text {
+
+}
+#CheckBot #first {
+    width:40px;
+    height:40px;
+}
+#CheckBot #second {
+    width:40px;
+    height:40px;
+}
+#CheckBot #third {
+    width:40px;
+    height:40px;
+}
+#CheckBot .border_n {
+    border:1px dashed #444;
+}
+#CheckBot .border_y {
+    border:1px solid #444;
+}
+#CheckBot #copyright {
+    font-size:11px;
+    width:140px;
+    padding:0;
+    margin:0;
+}
